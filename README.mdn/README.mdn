@@ -1,0 +1,41 @@
+Fitness Tracker 
+Fitness Tracker was assigned as homework by UC Berkeley coding bootcamp.
+This application emphasizes the use of Javascript to generate a workout tracker where you can record your fitness routine. 
+This project has been deployed to GitHub Pages. To test it out yourself, you can follow this deployment link: 
+https://faitheden1.github.io/Fitness-Tracker-2/.
+Prerequisites
+This application was created by using Visual Studio Code. 
+Summary
+Combining HTML, CSS and Javascript this application allows the user to record resistance and cardio routines online. 
+Javascript is used to make dynamic changes to an HTML document
+A new workout and continue workout button
+The user can select a new workout or continue workout button. 
+Once a button is selected, the user will be brought to a new page to fill in their workout routine. 
+ 
+Comments
+The user is able to make a workout profile and keep track of their workout. 
+ 
+Project Requirements:
+No SQL
+MongoDB
+Object-document mapping
+Mongoose.js
+CRUD
+ 
+To Execute File:
+Open in browser
+Features:
+HTML Pages
+Index.html
+Contains basic user input items and buttons with divs and ids
+Attaches to CSS and JavaScript files
+CSS Page
+Styles.css
+Contains centering and styling for html user input features
+Contains media queries
+Javascript Page Contains: Variables, including arrays and value placeholders, submit button,  if statements, and functions. 
+ 
+Authors
+Faith Elsen
+Acknowledgments
+UC Berkeley provided project parameters

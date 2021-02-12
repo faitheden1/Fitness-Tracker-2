@@ -58,6 +58,7 @@ async function initWorkout() {
     };
   
     Object.keys(summary).forEach(key => {
+      console.log (summary)
       const p = document.createElement("p");
       const strong = document.createElement("strong");
   
